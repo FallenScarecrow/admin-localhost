@@ -1,0 +1,42 @@
+<svg
+  style="position: relative;"
+  version="1.1"
+  width="128"
+  height="128"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+  class="ng-scope"
+>
+  <g
+    class="ng-presentation ng-isolate-scope ng-pristine ng-valid"
+    transform="translate(24 34.80833435058594)"
+  >
+    <g class="logo-preview ng-scope" transform="scale(0.39622641509433965)">
+      <g class="logo-ctn">
+        <g
+          class="logo"
+          id="item-h9879c2bszw38vgcb9xxvaqqc0076y44"
+          transform="translate(0 0) scale( 1.4308426199352078)"
+        >
+          <linearGradient
+            id="SVGID_588i8u2lmd9cc85x51qytch1a1uo0adz"
+            x1="0%"
+            y1="0%"
+            x2="100%"
+            y2="0%"
+            gradientTransform="rotate(90)"
+          >
+            <stop offset="0%" stop-color="#e92125" stop-opacity="1"></stop>
+            <stop offset="100%" stop-color="#ec1886" stop-opacity="1"></stop>
+          </linearGradient>
+          <polygon
+            points="76.656,82.889 57.79,105.307 102.766,0 80.267,0 66.217,0 48.176,0 59.859,14.887
+	22.966,101.269 0,115.314 16.967,115.314 26.005,115.314 51.012,115.314 53.515,115.314 102.766,115.314 116.615,82.889 "
+            fill="url(#SVGID_588i8u2lmd9cc85x51qytch1a1uo0adz)"
+          ></polygon>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

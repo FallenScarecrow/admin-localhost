@@ -1,0 +1,45 @@
+<svg
+  style="position: relative;"
+  version="1.1"
+  width="128"
+  height="128"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+  class="ng-scope"
+>
+  <g
+    class="ng-presentation ng-isolate-scope ng-pristine ng-valid"
+    transform="translate(32 16)"
+  >
+    <g class="logo-preview ng-scope" transform="scale(0.5)">
+      <g class="logo-ctn">
+        <g
+          class="logo"
+          id="item-1qj5upbx4wxxc4wsu0diwpq5pq3n1r3x"
+          transform="translate(0 0) scale( 1.3730928683724426)"
+        >
+          <linearGradient
+            id="SVGID_8nfm6hsp3638y83ghrjrh8acyutjmfy6"
+            x1="0%"
+            y1="0%"
+            x2="100%"
+            y2="0%"
+            gradientTransform="rotate(90)"
+          >
+            <stop offset="0%" stop-color="#e74951" stop-opacity="1"></stop>
+            <stop offset="100%" stop-color="#a72c77" stop-opacity="1"></stop>
+          </linearGradient>
+          <path
+            d="M22.94,114.369c14.187,8.339,54.814,5.181,55.333,5.251l4.37-0.139V89.977L79.75,90.12
+	c-0.094-0.02-40.026,2.29-49.818-4.241C16.978,77.238,9.697,65.343,8.292,50.523c0.077-2.792,0.147-41.85,0.199-43.82h15.723
+	c0,0,0,62.344,0,66.611c0,4.267,7.586,8.995,7.586,8.995V0H1.078L0.993,3.275C0.728,13.504,0.292,65.642,0.178,66.963l-0.007,0.079
+	C-1.367,92.873,7.551,105.322,22.94,114.369z M25.561,91.361c14.98,8.45,43.95,5.372,49.499,5.483v14.753
+	c-6.233-0.212-38.379,1.097-47.645-3.414C13.848,101.579,8.076,88.453,7.652,72.85C11.891,80.075,17.901,86.291,25.561,91.361z"
+            fill="url(#SVGID_8nfm6hsp3638y83ghrjrh8acyutjmfy6)"
+          ></path>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
